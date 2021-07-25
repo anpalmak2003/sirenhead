@@ -7,12 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C0D81032699ADAE00A27261 /* glass.obj in Resources */ = {isa = PBXBuildFile; fileRef = 2C0D81022699ADAE00A27261 /* glass.obj */; };
+		2C0D81052699B5C900A27261 /* glass2.obj in Resources */ = {isa = PBXBuildFile; fileRef = 2C0D81042699B5C900A27261 /* glass2.obj */; };
 		2C159748267BE43F00A3290A /* chooseMonsterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C159747267BE43F00A3290A /* chooseMonsterApp.swift */; };
 		2C15974A267BE43F00A3290A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C159749267BE43F00A3290A /* ContentView.swift */; };
 		2C15974C267BE44700A3290A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C15974B267BE44700A3290A /* Assets.xcassets */; };
 		2C15974F267BE44700A3290A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C15974E267BE44700A3290A /* Preview Assets.xcassets */; };
 		2C15975A267BE44700A3290A /* chooseMonsterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C159759267BE44700A3290A /* chooseMonsterTests.swift */; };
 		2C159765267BE44700A3290A /* chooseMonsterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C159764267BE44700A3290A /* chooseMonsterUITests.swift */; };
+		2C3751C62686694900D7ADFD /* siren.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 2C3751C52686694900D7ADFD /* siren.rcproject */; };
+		2C4957912697475700C9DA16 /* untitled.mtl in Resources */ = {isa = PBXBuildFile; fileRef = 2C4957902697475700C9DA16 /* untitled.mtl */; };
+		2C49579226974CA700C9DA16 /* sirenhead.obj in Resources */ = {isa = PBXBuildFile; fileRef = 2C49579426974CA700C9DA16 /* sirenhead.obj */; };
+		2C683BD326A8290D00B16F01 /* heartglasses.obj in Resources */ = {isa = PBXBuildFile; fileRef = 2C683BD226A8290D00B16F01 /* heartglasses.obj */; };
+		2C683BD526A8291600B16F01 /* snowglasses.obj in Resources */ = {isa = PBXBuildFile; fileRef = 2C683BD426A8291600B16F01 /* snowglasses.obj */; };
+		2C683BD726A8291F00B16F01 /* slimglasses.obj in Resources */ = {isa = PBXBuildFile; fileRef = 2C683BD626A8291F00B16F01 /* slimglasses.obj */; };
+		2C683BD926A8292800B16F01 /* oldglasses.obj in Resources */ = {isa = PBXBuildFile; fileRef = 2C683BD826A8292800B16F01 /* oldglasses.obj */; };
+		2C683BDB26A8292F00B16F01 /* beerglasses.obj in Resources */ = {isa = PBXBuildFile; fileRef = 2C683BDA26A8292F00B16F01 /* beerglasses.obj */; };
+		2C683BDD26A8293700B16F01 /* catglasses.obj in Resources */ = {isa = PBXBuildFile; fileRef = 2C683BDC26A8293600B16F01 /* catglasses.obj */; };
+		2C7C6C7626AC4E46003F19B5 /* sandals.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 2C7C6C7526AC4E45003F19B5 /* sandals.usdz */; };
+		2C7C6C7A26AC55AB003F19B5 /* boots.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 2C7C6C7926AC55AB003F19B5 /* boots.usdz */; };
+		2C948F4126A3FF3600C8544A /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C948F4026A3FF3600C8544A /* TestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +47,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2C0D81022699ADAE00A27261 /* glass.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = glass.obj; path = ../../../../Downloads/Sunglasses/glass.obj; sourceTree = "<group>"; };
+		2C0D81042699B5C900A27261 /* glass2.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = glass2.obj; path = ../../../../Downloads/Sunglasses/glass2.obj; sourceTree = "<group>"; };
 		2C159744267BE43F00A3290A /* chooseMonster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = chooseMonster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C159747267BE43F00A3290A /* chooseMonsterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chooseMonsterApp.swift; sourceTree = "<group>"; };
 		2C159749267BE43F00A3290A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +61,18 @@
 		2C159760267BE44700A3290A /* chooseMonsterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = chooseMonsterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C159764267BE44700A3290A /* chooseMonsterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chooseMonsterUITests.swift; sourceTree = "<group>"; };
 		2C159766267BE44700A3290A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C3751C52686694900D7ADFD /* siren.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; name = siren.rcproject; path = "../../../Downloads/sirenhead-%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9/siren.rcproject"; sourceTree = "<group>"; };
+		2C4957902697475700C9DA16 /* untitled.mtl */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = untitled.mtl; path = "../../../../Downloads/sirenhead-%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9/untitled.mtl"; sourceTree = "<group>"; };
+		2C49579326974CA700C9DA16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text; name = Base; path = Base.lproj/sirenhead.obj; sourceTree = "<group>"; };
+		2C683BD226A8290D00B16F01 /* heartglasses.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = heartglasses.obj; path = ../../../../Desktop/glasses/heartglasses.obj; sourceTree = "<group>"; };
+		2C683BD426A8291600B16F01 /* snowglasses.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = snowglasses.obj; path = ../../../../Desktop/glasses/snowglasses.obj; sourceTree = "<group>"; };
+		2C683BD626A8291F00B16F01 /* slimglasses.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = slimglasses.obj; path = ../../../../Desktop/glasses/slimglasses.obj; sourceTree = "<group>"; };
+		2C683BD826A8292800B16F01 /* oldglasses.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = oldglasses.obj; path = ../../../../Desktop/glasses/oldglasses.obj; sourceTree = "<group>"; };
+		2C683BDA26A8292F00B16F01 /* beerglasses.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = beerglasses.obj; path = ../../../../Desktop/glasses/beerglasses.obj; sourceTree = "<group>"; };
+		2C683BDC26A8293600B16F01 /* catglasses.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = catglasses.obj; path = ../../../../Desktop/glasses/catglasses.obj; sourceTree = "<group>"; };
+		2C7C6C7526AC4E45003F19B5 /* sandals.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = sandals.usdz; path = ../../../../Desktop/shoes/sandals.usdz; sourceTree = "<group>"; };
+		2C7C6C7926AC55AB003F19B5 /* boots.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = boots.usdz; path = ../../../../Desktop/shoes/boots.usdz; sourceTree = "<group>"; };
+		2C948F4026A3FF3600C8544A /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +103,7 @@
 		2C15973B267BE43E00A3290A = {
 			isa = PBXGroup;
 			children = (
+				2C3751C52686694900D7ADFD /* siren.rcproject */,
 				2C159746267BE43F00A3290A /* chooseMonster */,
 				2C159758267BE44700A3290A /* chooseMonsterTests */,
 				2C159763267BE44700A3290A /* chooseMonsterUITests */,
@@ -95,11 +124,24 @@
 		2C159746267BE43F00A3290A /* chooseMonster */ = {
 			isa = PBXGroup;
 			children = (
+				2C7C6C7926AC55AB003F19B5 /* boots.usdz */,
+				2C7C6C7526AC4E45003F19B5 /* sandals.usdz */,
+				2C683BDC26A8293600B16F01 /* catglasses.obj */,
+				2C683BDA26A8292F00B16F01 /* beerglasses.obj */,
+				2C683BD826A8292800B16F01 /* oldglasses.obj */,
+				2C683BD626A8291F00B16F01 /* slimglasses.obj */,
+				2C683BD426A8291600B16F01 /* snowglasses.obj */,
+				2C683BD226A8290D00B16F01 /* heartglasses.obj */,
+				2C0D81042699B5C900A27261 /* glass2.obj */,
+				2C0D81022699ADAE00A27261 /* glass.obj */,
+				2C4957902697475700C9DA16 /* untitled.mtl */,
+				2C49579426974CA700C9DA16 /* sirenhead.obj */,
 				2C159747267BE43F00A3290A /* chooseMonsterApp.swift */,
 				2C159749267BE43F00A3290A /* ContentView.swift */,
 				2C15974B267BE44700A3290A /* Assets.xcassets */,
 				2C159750267BE44700A3290A /* Info.plist */,
 				2C15974D267BE44700A3290A /* Preview Content */,
+				2C948F4026A3FF3600C8544A /* TestView.swift */,
 			);
 			path = chooseMonster;
 			sourceTree = "<group>";
@@ -233,8 +275,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C7C6C7A26AC55AB003F19B5 /* boots.usdz in Resources */,
+				2C683BD326A8290D00B16F01 /* heartglasses.obj in Resources */,
+				2C683BDB26A8292F00B16F01 /* beerglasses.obj in Resources */,
+				2C683BD526A8291600B16F01 /* snowglasses.obj in Resources */,
+				2C683BD926A8292800B16F01 /* oldglasses.obj in Resources */,
+				2C0D81032699ADAE00A27261 /* glass.obj in Resources */,
+				2C683BDD26A8293700B16F01 /* catglasses.obj in Resources */,
+				2C0D81052699B5C900A27261 /* glass2.obj in Resources */,
 				2C15974F267BE44700A3290A /* Preview Assets.xcassets in Resources */,
 				2C15974C267BE44700A3290A /* Assets.xcassets in Resources */,
+				2C7C6C7626AC4E46003F19B5 /* sandals.usdz in Resources */,
+				2C49579226974CA700C9DA16 /* sirenhead.obj in Resources */,
+				2C4957912697475700C9DA16 /* untitled.mtl in Resources */,
+				2C683BD726A8291F00B16F01 /* slimglasses.obj in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,7 +313,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C948F4126A3FF3600C8544A /* TestView.swift in Sources */,
 				2C15974A267BE43F00A3290A /* ContentView.swift in Sources */,
+				2C3751C62686694900D7ADFD /* siren.rcproject in Sources */,
 				2C159748267BE43F00A3290A /* chooseMonsterApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -294,6 +350,18 @@
 			targetProxy = 2C159761267BE44700A3290A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		2C49579426974CA700C9DA16 /* sirenhead.obj */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2C49579326974CA700C9DA16 /* Base */,
+			);
+			name = sirenhead.obj;
+			path = "../../../Downloads/sirenhead-%D0%A1%D0%B8%D1%80%D0%B5%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9";
+			sourceTree = SOURCE_ROOT;
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		2C159767267BE44700A3290A /* Debug */ = {
